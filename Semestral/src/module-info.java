@@ -4,6 +4,6 @@
 /**
  * 
  */
-module Semoutput {
+module Semestral {
 	requires java.desktop;
 }
